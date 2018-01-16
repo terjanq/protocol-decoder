@@ -6,4 +6,6 @@ This is the tool I had made back in 2016. The purpose of it, was to decode proto
 
 You can try demo version here: https://terjanq.github.io/tools/protocol-decoder/
 
+![preview](preview.png?raw=true "Preview")
+
 The instruction of how to use it will be updated.
